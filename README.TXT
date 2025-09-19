@@ -9,8 +9,8 @@ Version 1 - 10/13/24
 
 Build Instructions:
 
-1. Compile FinalAssignment.java, and the others will follow. As of time of writing the compiler will throw an error caused by slightly inmproper use of 
-array declarations - this can be safely ignored.
+1. Compile FinalAssignment.java, and the others will follow. As of time of writing the compiler will throw an error caused by slightly improper use of 
+array declarations - this can be safely ignored for now.
 2. Run the generated .class file from the command line.
 3. Enjoy!
 
