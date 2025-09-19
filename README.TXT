@@ -4,7 +4,7 @@ A text-based RPG written in Java.
 This project was my first foray into creating a complex computer program and was turned in for a grade. 
 Its puropse is to provide an hour or so of entertainment and has served to sharpen my coding skills.
 
-Version 1 - 
+Version 1 - 10/13/24
 
 HOW TO START THIS PROJECT:
 
