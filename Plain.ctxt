@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Plain
-comment0.text=\n\ Subclass\ of\ Location\ objects\ of\ Plain\ type\n\n\ @Alexander\ Gardner\n\ @10/12/2024\n
-comment1.params=localeName\ areaIsClear
-comment1.target=Plain(java.lang.String,\ boolean)
-comment2.params=
-comment2.target=void\ printLocationInfo()
-numComments=3
