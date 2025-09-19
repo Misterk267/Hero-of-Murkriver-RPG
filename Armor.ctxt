@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Armor
+comment0.text=\n\ Subclass\ for\ Equippable\ Items\ of\ Armor\ type\n\n\ @Alexander\ Gardner\n\ @10/12/2024\n
+comment1.params=equipmentName\ affectedStat\ statBonus\ itemId
+comment1.target=Armor(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ listStat()
+numComments=3

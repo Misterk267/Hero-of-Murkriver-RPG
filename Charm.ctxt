@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Charm
+comment0.text=\n\ Subclass\ for\ Equippable\ objects\ of\ the\ Charm\ type\n\n\ @Alexander\n\ @10/12/2024\n
+comment1.params=equipmentName\ affectedStat\ statBonus\ itemId
+comment1.target=Charm(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ listStat()
+numComments=3

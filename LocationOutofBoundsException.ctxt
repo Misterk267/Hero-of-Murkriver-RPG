@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LocationOutofBoundsException
+comment0.text=\n\ Custom\ exception\ for\ \n\n\ @Alexander\ Gardner\n\ @10/10/24\n
+comment1.params=message\ location1
+comment1.target=LocationOutofBoundsException(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getLocation1()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

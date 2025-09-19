@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Settlement
+comment0.text=\n\ Subclass\ for\ Location\ objects\ of\ Settlement\ type\n\n\ @Alexander\ Gardner\n\ @10/12/2024\n
+comment1.params=localeName\ shopExists\ areaIsClear
+comment1.target=Settlement(java.lang.String,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ getShopExists()
+comment3.params=
+comment3.target=void\ setShopExists()
+comment4.params=
+comment4.target=void\ printLocationInfo()
+numComments=5
