@@ -1,12 +1,12 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+***Hero of Murkriver RPG***
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+A text-based RPG written in Java.
+This project was my first foray into creating a complex computer program and was turned in for a grade. 
+Its puropse is to provide an hour or so of entertainment and has served to sharpen my coding skills.
+
+Version 1 - 
+
 HOW TO START THIS PROJECT:
-AUTHORS:
+
+by Misterk267 (Alexander)
 USER INSTRUCTIONS:
