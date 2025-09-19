@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Swamp
-comment1.params=localename\ areaisclear
-comment1.target=Swamp(java.lang.String,\ boolean)
-comment2.params=
-comment2.target=boolean\ isWitchPresent()
-comment3.params=
-comment3.target=void\ printLocationInfo()
-numComments=4
